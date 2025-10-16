@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoURI =
-  "mongodb+srv://teja-yarragunta-db:QqYvnD08ZXezZmyy@db.31eftdt.mongodb.net/todo";
+const mongoURI = "ichata mi mongo uri pettandi";
 
 const connectDb = async () => {
   await mongoose
